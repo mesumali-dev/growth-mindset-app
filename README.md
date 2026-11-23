@@ -1,4 +1,4 @@
-# 🌱 Growth Mindset Toolkit | Interactive Productivity Suite
+# Growth Mindset Toolkit | Interactive Productivity Suite
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Suite-FF4B4B?style=flat-square&logo=streamlit)](https://streamlit.io/)
@@ -7,7 +7,7 @@
 
 ---
 
-## 💡 Utilities Included
+## Utilities Included
 
 - **Mindset Challenge Tracker:** Daily goals, positive reframing exercises, and resilience logging.
 - **Interactive Tools:** Integrated BMI Calculator, Countdown timer, and Password Generator.
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Run the Suite
+## Run the Suite
 
 ```bash
 git clone https://github.com/mesumali-dev/growth-mindset-app.git
@@ -26,5 +26,5 @@ streamlit run main.py
 
 ---
 
-## 👨‍💻 Author
+## ‍ Author
 **Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
