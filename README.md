@@ -1,4 +1,4 @@
-# 🌱 Growth Mindset Toolkit — Interactive Productivity Suite
+# 🌱 Growth Mindset Toolkit | Interactive Productivity Suite
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Suite-FF4B4B?style=flat-square&logo=streamlit)](https://streamlit.io/)
@@ -27,4 +27,4 @@ streamlit run main.py
 ---
 
 ## 👨‍💻 Author
-**Syed Mesum Ali** — [@mesumali-dev](https://github.com/mesumali-dev)
+**Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
